@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains the information related to multiplicative group
   of integers modulo p.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-701-algebra-i-fall-2010/9148496b181b23a244cf4cc9f172305b_MIT18_701F10_cyclic12.pdf
+file: /media/courses/18-701-algebra-i-fall-2010/9148496b181b23a244cf4cc9f172305b_MIT18_701F10_cyclic12.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_701F10_cyclic12.pdf
 uid: 9148496b-181b-23a2-44cf-4cc9f172305b

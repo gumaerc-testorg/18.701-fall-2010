@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 761ec336-5a42-4575-7ea2-9fdeac94f8a7
 ---
@@ -143,7 +146,7 @@ Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset9))
 32
 {{< tdclose >}}
 {{< tdopen >}}
-The special unitary group SU2
+The special unitary group SU{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 10 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset10))

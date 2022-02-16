@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 59a155e5-5ce9-a823-9eb5-edf8bcbb285c
 ---
@@ -25,7 +27,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-The general linear group GLn, groups, generators
+The general linear group GL{{< sub "n" >}}, groups, generators
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 out
@@ -37,7 +39,7 @@ Problem set 1 out
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The symmetric group Sn, subgroups
+The symmetric group S{{< sub "n" >}}, subgroups
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,7 +51,7 @@ The symmetric group Sn, subgroups
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Subgroups of Z+, cyclic groups
+Subgroups of Z{{< sup "+" >}}, cyclic groups
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -451,7 +453,7 @@ Quadrics
 32
 {{< tdclose >}}
 {{< tdopen >}}
-The special unitary group SU2
+The special unitary group SU{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -469,7 +471,7 @@ Problem set 11 out
 33
 {{< tdclose >}}
 {{< tdopen >}}
-The rotation group SO3
+The rotation group SO{{< sub "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

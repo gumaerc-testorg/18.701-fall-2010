@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: c183fb3e-295a-9fc2-9814-10fdb54f42a0
 ---
@@ -22,7 +24,7 @@ The multiplicative group of integers modulo _p_ ([PDF]({{< baseurl >}}/resources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Plane crystallographic groups with point group _D1_ ([PDF]({{< baseurl >}}/resources/mit18_701f10_d1group10))
+Plane crystallographic groups with point group _D{{< sub "1" >}}_ ([PDF]({{< baseurl >}}/resources/mit18_701f10_d1group10))
 {{< tdclose >}}
 
 {{< trclose >}}

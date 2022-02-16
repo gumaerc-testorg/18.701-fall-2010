@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c46ca89e-db0c-54f6-6876-0a32d77f2b83
 ---
@@ -35,7 +38,7 @@ EXERCISES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-The general linear group GLn, groups, generators
+The general linear group GL{{< sub "n" >}}, groups, generators
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 1, sections 1-4; chapter 2, sections 1-2
@@ -50,7 +53,7 @@ Chapter 1, 1.7, 3.4, 4.6; chapter 2, 1.1, and 2.3
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The symmetric group Sn, subgroups
+The symmetric group S{{< sub "n" >}}, subgroups
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 1, section 5; chapter 2, section 2
@@ -65,7 +68,7 @@ Chapter 1, 5.1, 5.2; chapter 2, 2.4, and 2.5
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Subgroups of Z+, cyclic groups
+Subgroups of Z{{< sup "+" >}}, cyclic groups
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 2, sections 3-4
@@ -470,7 +473,7 @@ Chapter 8, 6.21, 7.1, 7.2, and 7.3
 30
 {{< tdclose >}}
 {{< tdopen >}}
-The special unitary group SU2
+The special unitary group SU{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 9, sections 1-3
@@ -485,7 +488,7 @@ Chapter 9, 1.2, 1.5, 2.1, 3.1, and 3.4
 31
 {{< tdclose >}}
 {{< tdopen >}}
-The rotation group SO3
+The rotation group SO{{< sub "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 9, section 4
