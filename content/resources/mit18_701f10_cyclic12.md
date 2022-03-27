@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c183fb3e-295a-9fc2-9814-10fdb54f42a0
 resourcetype: Document
 title: MIT18_701F10_cyclic12.pdf
 uid: 9148496b-181b-23a2-44cf-4cc9f172305b

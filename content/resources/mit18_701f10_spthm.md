@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c183fb3e-295a-9fc2-9814-10fdb54f42a0
 resourcetype: Document
 title: MIT18_701F10_spthm.pdf
 uid: 2622987f-ba1e-172b-289f-c78934b8404d
