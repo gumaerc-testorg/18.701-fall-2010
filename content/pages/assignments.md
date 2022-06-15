@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,9 +38,9 @@ Homomorphisms and isomorphisms
 {{< tdopen >}}
 
 
-Diagnostic Problem ([PDF]({{< baseurl >}}/resources/mit18_701f10_diagnost))
+Diagnostic Problem ({{% resource_link 9e3e9b39-082f-99a9-e45a-b846218905d2 "PDF" %}})
 
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset1))
+Problem Set 1 ({{% resource_link 318daf04-46ed-3151-c72a-9c12c29830c6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -53,7 +54,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset1))
 Product groups, quotient groups
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset2))
+Problem set 2 ({{% resource_link ad2f56ce-a62b-d4fc-f0fd-ed97488bfe93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +66,7 @@ Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset2))
 Computation with bases
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset3))
+Problem set 3 ({{% resource_link 72736827-3b75-7c73-2845-d594f295bdce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +78,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset3))
 The characteristic polynomial
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset4))
+Problem set 4 ({{% resource_link 83946f67-9abd-76be-1bfe-ef85b244c222 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset4))
 Rotations
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset5))
+Problem set 5 ({{% resource_link 88118d3a-d589-fd38-7695-7c652962636f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +102,7 @@ Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset5))
 Discrete groups of isometries
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset6))
+Problem set 6 ({{% resource_link db5d873e-3f18-0742-6472-c5d705d34d8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset6))
 Finite rotation groups
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset7))
+Problem set 7 ({{% resource_link 94b42e7b-ef02-b10a-be6f-13220f44c7b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +126,7 @@ Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset7))
 The symmetric and alternating groups
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset8))
+Problem set 8 ({{% resource_link 36373c3e-4569-ee7f-004d-3f8b1d3aecd4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +138,7 @@ Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset8))
 The projection formula
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset9))
+Problem set 9 ({{% resource_link b9e8fc0a-94cf-9c60-83e0-cb93745318de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset9))
 The special unitary group SU{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 10 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset10))
+Problem set 10 ({{% resource_link 1fe17bba-67b9-cc5c-29ae-84892c4ba37e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ Problem set 10 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset10))
 Simple groups
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 11 ([PDF]({{< baseurl >}}/resources/mit18_701f10_pset11))
+Problem set 11 ({{% resource_link b9423f7b-c2b6-97fa-cf4a-96550f4ee21d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
