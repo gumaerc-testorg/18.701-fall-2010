@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to diagnostic problems.
 file: /courses/18-701-algebra-i-fall-2010/9e3e9b39082f99a9e45ab846218905d2_MIT18_701F10_diagnost.pdf
+file_size: 31826
 file_type: application/pdf
 learning_resource_types:
 - Assignments
