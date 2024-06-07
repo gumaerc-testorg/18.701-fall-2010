@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to multiplicative group
   of integers modulo p.
 file: /courses/18-701-algebra-i-fall-2010/9148496b181b23a244cf4cc9f172305b_MIT18_701F10_cyclic12.pdf
+file_size: 70684
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
