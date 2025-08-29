@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to spectral theorem for
   hermitian matrices.
-file: /courses/18-701-algebra-i-fall-2010/2622987fba1e172b289fc78934b8404d_MIT18_701F10_spthm.pdf
+file: /ol-ocw-studio-app/courses/18-701-algebra-i-fall-2010/2622987fba1e172b289fc78934b8404d_MIT18_701F10_spthm.pdf
 file_size: 56634
 file_type: application/pdf
 learning_resource_types: []
